@@ -16,5 +16,5 @@ title: 有情风万里卷潮来
 [Bao's voice](https://www.xiami.com/song/mQG6aF5e001).
 
 <audio id="audio" controls="" preload="none">
-      <source id="mp3" src="{{ site.baseurl }}/images/李建复 - 一碟诗画.mp3">
+      <source id="mp3" src="https://yuhongzhu08.github.io/images/%E6%9D%8E%E5%BB%BA%E5%A4%8D%20-%20%E4%B8%80%E7%A2%9F%E8%AF%97%E8%AF%9D.mp3">
 </audio>
